@@ -1,0 +1,33 @@
+Discord / twitch bot
+	https://www.sitepoint.com/discord-bot-node-js/
+		https://discordjs.guide/
+	https://www.npmjs.com/package/twitch-bot
+
+	Common bot library? tool? module? - Should be possible
+
+	Response
+		When messaged @botname - send response back based on text analysis
+			Attempt not static ones, but some randomness
+
+	Insults
+		Command insult <name>
+		random insult
+		random insult topic
+			2FA
+			
+	Music
+		Play youtube
+		Play soundcloud
+		
+	FAQ
+		2FA
+		Job
+		Who's your daddy
+		Technology
+	
+	About me / Story
+		2FA
+			Discord
+			Developer
+			
+	
